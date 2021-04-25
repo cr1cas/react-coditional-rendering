@@ -1,0 +1,8 @@
+.tabla-materia-container {
+    width: 90%;
+    margin: 0 auto;/*arriba y abajo =  0         en los lados automatico*/
+    min-height: 670px;
+    border: 1px solid green;
+    margin-top: 10px;
+}
+
